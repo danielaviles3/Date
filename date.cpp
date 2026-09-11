@@ -1,3 +1,6 @@
+//Daniel Aviles Gerena
+//NUM ESTUDIANTE: 801-24-5453
+
 #include "Date.h"
 #include <stdexcept>
 #include <iostream>
