@@ -1,4 +1,6 @@
 
+//Daniel Aviles
+//801-24-5453
 
 
 // Measure execution times of bubble sort vs. the STL implementation

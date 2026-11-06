@@ -1,3 +1,7 @@
+
+# Daniel Aviles
+# 801-24-5453
+# Lab 4
 # Execution time of some sorting algorithms
 
 ## Introduction
